@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('./fonts/PFDinDisplayPro-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('./fonts/PFDinDisplayPro-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('./fonts/PFDinDisplayPro-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('./fonts/PFDinDisplayPro-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('./fonts/PFDinDisplayPro-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: 'PF DinDisplay Pro',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
